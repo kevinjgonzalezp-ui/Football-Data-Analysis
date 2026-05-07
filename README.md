@@ -116,3 +116,4 @@ El análisis confirma que:
 
 - La API utilizada requiere autenticación mediante API Key.
 - Se respetaron las buenas prácticas de uso de datos y APIs.
+- Link de Presentacion: https://www.canva.com/design/DAHI_KU5vuM/8VcrKciHHZhmJm1wcNTvZA/edit?ui=e30
